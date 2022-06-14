@@ -1,4 +1,4 @@
-# 3-Services-that-Compose-the-Core-of-a-B2B-eCommerce-Platform
+# 3 Services that Compose the Core of a B2B eCommerce Platform
 1. User authentication and permissions control.
 
 This is a no-brainer. Any ecommerce portal must know its users, and any service that needs to verify the user's identity should be included in this category. This service also forms the basis for personalization, UX (User eXperience) enhancements, complex pricing models, and so on with more sophisticated [B2B eCommerce Platform](https://virtocommerce.com/b2b-ecommerce-platform).
